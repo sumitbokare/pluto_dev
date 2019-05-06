@@ -11,4 +11,3 @@
       with_items:
          - telnet
          - ntp
-         - ssh
